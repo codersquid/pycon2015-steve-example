@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "TLS is the industry standard for secure networking. This talk will give an overview of the TLS protocol and demonstrate how to create secure connections with the standard library's ssl module.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/4o-xqqidvKA' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3393, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 

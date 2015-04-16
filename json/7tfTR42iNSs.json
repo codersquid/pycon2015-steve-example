@@ -3,6 +3,7 @@
   "copyright_text": "youtube", 
   "description": "Continuos Deployment is the act of deploying software constantly.  The idea is if \"\"release early, release often\"\" is good, releasing very often is better.  It's not trivial.   Automation is part of the battle, and testing is another.   Learn to use tools like Jenkins and Ansible to move from deploying software once a month to 15 times every hour, and why you'll want to.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/7tfTR42iNSs' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3404, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

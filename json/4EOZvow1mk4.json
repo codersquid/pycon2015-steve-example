@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "You know clone, commit, push, and pull. Now you're ready for the fun stuff. This talk will give you the advanced knowledge you need to take control of your git repository: rebase, cherry-pick, bisect, blame, squashing, and the reflog. You'll also get a better conceptual understanding of how git works, allowing you to chain these tools together to accomplish whatever task you need.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/4EOZvow1mk4' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3392, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 

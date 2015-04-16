@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "The Python library uses descriptors frequently, but most developers overlook this feature. This talk will cover what a descriptor is, the current uses in the standard library, and how custom descriptors can be used in a developer\u2019s toolset to eliminate repeated code.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/h2-WPwGnHqE' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3480, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

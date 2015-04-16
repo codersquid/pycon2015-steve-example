@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Async frameworks like Tornado and asyncio scramble our usual strategies for writing sequential code. This is most problematic when writing tests: how can you validate the outcome when you don\u2019t know when to expect it? This talk introduces you to methods and practices for unittesting async applications.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/GpvCSkxLiZo' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3419, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "We've ported Python to run directly on hardware, without an OS, as a testing and exploration environment for firmware, ACPI, and UEFI. This talk will explore porting Python to a new platform, embedding Python, recreating enough of libc and POSIX to run Python without an OS, and binding to platform-specific services. Includes live demo of bare-metal Python, directly driving hardware.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/bYQ_lq5dcvM' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3471, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 

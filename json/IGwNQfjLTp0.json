@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Our trusty friend, the hash function, is as crucial to programming as linked lists or recursion, but it doesn't always get the press that it deserves. \n\nWe're going to talk about hash functions, some data structures involving hash functions, the stately bloom filter, and the security implications of password hashing. \n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/IGwNQfjLTp0' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3424, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

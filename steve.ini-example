@@ -1,0 +1,37 @@
+[youtube]
+channel_id = UCgxzjK6GuOHVKR_08TT4hJQ
+api_key = 
+api_service_name = youtube
+api_version = v3
+
+[project]
+language = English
+# The name of this group of videos. For example, if this was a conference
+# called EuroPython 2011, then you'd put:
+# category = EuroPython 2011
+category = PyCon US 2015
+
+# The url for where all the videos are listed.
+# e.g. url = http://www.youtube.com/user/PythonItalia/videos
+url = https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ
+
+# If the url is a YouTube-based url, you can either have 'object'
+# based embed code or 'iframe' based embed code. Specify that
+# here.
+youtube_embed = iframe 
+
+# The url for the richard instance api.
+# e.g. url = http://example.com/api/v1/
+api_url = 
+
+# Your username and api key.
+#
+# Alternatively, you can pass this on the command line or put it in a
+# separate API_KEY file which you can keep out of version control.
+# e.g. username = willkg
+#      api_key = OU812
+# username =
+# api_key =
+api_url = 
+username = 
+api_key = 

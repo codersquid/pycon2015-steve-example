@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "---Partial tutorial, due to a technical error only the beginning of the speak was recorded, sorry for the inconvenience---\n\n\"Speaker: A. Jesse Jiryu Davis\n\nYour Python program is too slow, and you need to optimize it. Where do you start? With the right tools, you can optimize your code where it counts. We\u2019ll explore the guts of the Python profiler \u201cYappi\u201d to understand its features and limitations. We\u2019ll learn how to find the maximum performance wins with minimum effort.\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/4uJWWXYHxaM' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3394, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Applying functional programming ideas to solve the problem of packaging software and configuration of systems in a stateless and deterministic way. Nix project addresses those problems in unique way based on academic research that has been applied to real world software collections in last 10 years.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/W8A2bOKPtJU' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3454, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

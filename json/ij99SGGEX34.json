@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Sometimes your programs have bugs. Often they're shallow things, simple AttributeErrors or TypeErrors. Sometimes they're large, complex, and nearly impossible to debug. This talk explores techniques for figuring these out.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ij99SGGEX34' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3485, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

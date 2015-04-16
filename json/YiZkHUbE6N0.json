@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Docker was one of last year\u2019s most talked about open source projects - but what is it? And what does it mean for deploying applications? This tutorial will explain what Docker is and where it fits in with other deployment and configuration management tools. Students will then learn the basics of working with Docker containers, how to \u201cdockerize\u201d their Python apps, and some emerging best practices.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/YiZkHUbE6N0' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3463, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-09", 

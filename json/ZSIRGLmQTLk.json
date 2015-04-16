@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Have you started to read the source code of CPython but not gotten as far as you wanted? Maybe you want to understand more about CPython but don't know where to begin. I'll present a number of strategies for getting more familiar with Python under the hood that go beyond \"\"just read it!\"\" This talk isn't about contributing - it's about getting into the code base and discovering interesting things.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ZSIRGLmQTLk' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3465, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

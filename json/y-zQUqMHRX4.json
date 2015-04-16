@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Are you still using SSH to manage your servers? Deploying code manually with rsync? There\u2019s a better way. SaltStack is one of the latest and greatest tools for system management. Once you have a foundation of lightning-fast remote execution, you can build anything on top of it. Plus, it\u2019s written in Python, and easy to extend!\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/y-zQUqMHRX4' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3513, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

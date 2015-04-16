@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "In this tutorial we'll set ourselves the goal of building a minimal recommendation engine, and in the process learn about Python's excellent Pydata and related projects and tools: NumPy, pandas, and the IPython Notebook.\n\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/F6gWjOc1FUs' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3416, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 

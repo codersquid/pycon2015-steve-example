@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": " In this tutorial we will cover the basics of writing spark programs in python (initially from the pyspark shell, later with independent applications). We will also discuss some of the theory behind spark, and some performance considerations when using spark in a cluster.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/9xYfNznjClE' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3407, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

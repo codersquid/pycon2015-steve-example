@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Practical guide to build and test wheel packages for all platforms using free\nContinuous Integration services such as Travis CI (Linux and OSX) and AppVeyor\n(Windows).\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/d-p6lJJObLU' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3473, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

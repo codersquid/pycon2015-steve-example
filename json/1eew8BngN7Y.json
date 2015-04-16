@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "This talk introduces the asyncio module. I'll cover what it's for, how it works and describe how I used it to write a real-world networked application (a distributed hash table).\nWe'll explore the event loop, co-routines, futures and networking with examples from my code.\nThis won't be an exhaustive exposition. Rather, attendees will grasp enough of asyncio to continue with their own studies.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/1eew8BngN7Y' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3388, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 

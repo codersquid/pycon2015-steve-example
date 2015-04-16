@@ -3,6 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "You might think of the Linux kernel as something that only kernel developers need to know about. Not so! It turns out that understanding some basics about kernels and systems programming makes you a better developer, and you can use this knowledge when debugging your normal everyday Python programs.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/5v6o-VsLAew' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "id": 3399, 
   "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 
