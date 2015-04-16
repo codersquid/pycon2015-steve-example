@@ -33,7 +33,7 @@ def parse_speakers_and_description(description):
 
     \n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides"
     """
-    p = re.compile(r'"Speaker+: (?P<speakers>[^\n]+)\n\n(?P<description>.*)Slides can be found', re.DOTALL)
+    p = re.compile(r'"Speakers?: (?P<speakers>[^\n]+)\n\n(?P<description>.*)Slides can be found', re.DOTALL)
     m = p.match(description)
     if m:
         return m.groupdict()

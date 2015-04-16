@@ -112,13 +112,12 @@ class YouTubeScraper(object):
         else:
             language = 'English'
 
-        title = parse_title(snippet.get('title', ''))
-        d = parse_speakers_and_description(snippet.get('description', ''))
-        speakers = parse_speakers(d['speakers'])
-
-        print title
-        print speakers
-        print d['description']
+        raw_title = snippet.get('title', '')
+        title = parse_title(raw_title)
+        raw_description = snippet.get('description', '')
+        d = parse_speakers_and_description(raw_description)
+        raw_speakers = d['speakers']
+        speakers = parse_speakers(raw_speakers)
 
         item = {
             'category': get_from_config(self.cfg, 'category'),
