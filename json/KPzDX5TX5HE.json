@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "You know Python 3 is an improvement over Python 2 and you want to use it. Unfortunately you have legacy Python 2 source code that needs to stay compatible. But don't fret! This talk will show you that you can make your code be Python 2/3 source-compatible using various tools to pick up the nitty-gritty work and help modernize your Python code to newer Python 2 practices.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/KPzDX5TX5HE' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 
   "slug": "", 

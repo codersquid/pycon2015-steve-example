@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Have you heard about internationalization (i18n) and wondered what it meant? Perhaps your project already has i18n of its strings but you have a nagging feeling you could be doing it better. This talk will walk through the basics of i18n\u2019ing a Django project (but the principles apply to any project!), and how to make the process of localization (l10n) go more smoothly.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/UOOMFGURr5I' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 
   "slug": "", 

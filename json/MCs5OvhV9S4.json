@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "There are currently three popular approaches to Python concurrency: threads, event loops, and coroutines. Each is shrouded by various degrees of mystery and peril.  In this talk, all three approaches will be deconstructed and explained in a epic ground-up live coding battle.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/MCs5OvhV9S4' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 
   "slug": "", 

@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Python's super() is well-designed and powerful, but it can be tricky to use if you don't know all the moves.\n\nThis talk offers clear, practical advice with real-world use cases on how to use super() effectively and not get tripped-up by common mistakes.\n\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/EiOglTERPEo' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 
   "slug": "", 

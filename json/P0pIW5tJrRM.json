@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "This talk will be an introduction to the most commonly used Python Debugger commands and what they do. Learn how to navigate and inspect code from the pdb prompt so you can better understand how it works. The Python Debugger is a valuable debugging tool for all levels of Python programmers. You should walk away being able to debug the next Python code you encounter!\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/P0pIW5tJrRM' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 

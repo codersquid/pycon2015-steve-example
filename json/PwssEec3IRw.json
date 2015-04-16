@@ -3,16 +3,12 @@
   "copyright_text": "creativeCommon", 
   "description": "---Partial tutorial, only the beginning of the tutorial was recorded, sorry for the inconvenience---\n\n\"Speaker: Kenny Yarboro\n\nUsing a combination of Django and Django REST Framework, we will build a Restaurant Menu that can be managed via a REST API. Starting from the install of the Django REST Framework, we will build our way to a functional API that meets the needs of developers and end-users. You will walk away with an understanding of the basic concepts of REST APIs and a working sample project.\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/PwssEec3IRw' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 
   "slug": "", 
   "source_url": "https://www.youtube.com/watch?v=PwssEec3IRw", 
-  "speakers": [
-    ""
-  ], 
+  "speakers": [], 
   "state": 2, 
   "summary": "", 
   "thumbnail_url": "https://i.ytimg.com/vi/PwssEec3IRw/hqdefault.jpg", 

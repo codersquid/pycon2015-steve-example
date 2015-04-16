@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "In a highly dynamic language like Python, testing is even more critical than in compiled or more static languages. Like any other code we produce, tests can be either good or bad. This talk explores three fallacies of testing, and the mistakes and bad habits these fallacies encourage; and shows how to write good tests which help assure proper behavior without impeding development progress.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/RfR_QRoNZxo' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 
   "slug": "", 

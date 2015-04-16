@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Everyone knows poor performance when they see it, and performance concerns affect every application -- web applications more than most. But finding performance problems can be extraordinarily difficult, and requires an analytical approach coupled with good instrumentation. This talk explores approaches to instrumentation and what that instrumentation can tell you.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/UAztOuO1ANQ' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 

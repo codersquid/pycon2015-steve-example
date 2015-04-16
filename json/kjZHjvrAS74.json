@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "It\u2019s not in the OWASP Top 10, but you don\u2019t have to look far to hear stories of security vulnerabilities involving deserialization of user input. In this talk I\u2019ll go over what the threat is and how you might be making yourself vulnerable. I\u2019ll cover the features (not bugs: features) of XML, YAML, and JSON that make them surprisingly dangerous, and how to protect your code from them.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/kjZHjvrAS74' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 

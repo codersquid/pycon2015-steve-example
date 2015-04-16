@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "This talk provides an introduction to rate tracking as well as an explanation of a particularly cool way to implement it. You will learn what rate tracking is, why you would want to do it, and then how you can use build a Redis-backed \u201cvelocity engine\u201d  in Python to do just that. \n\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/tIBkiXvEAC0' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 

@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Interested in Ansible, or in server orchestration and configuration generally? This tutorial will teach the basics -- and a few of the not-so-basics -- of orchestrating machines with Ansible.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/-i1pZ6vvMX8' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-10", 
   "slug": "", 

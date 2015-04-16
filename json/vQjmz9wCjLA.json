@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "A beginner's introduction to testing and web development with Django. We'll build a simple web app, from scratch, but with full TDD, including functional testing with Selenium and unit testing Django's views, templates, and models. Some familiarity with Python is desirable, but no prior knowledge of Django or testing is assumed.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/vQjmz9wCjLA' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-09", 
   "slug": "", 

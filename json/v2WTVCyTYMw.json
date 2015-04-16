@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Descriptors and metaclasses are advanced Python features. While it is\npossible to write Python programs without active knowledge of them,\nknowing more about them facilitates a deeper understanding of\nthe language. With examples, you will learn how they work and how to\nwrite your own descriptors and metaclasses. Furthermore, you will understand\nwhen to use and when better not to use them.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/v2WTVCyTYMw' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-10", 
   "slug": "", 

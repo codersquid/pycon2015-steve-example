@@ -3,9 +3,7 @@
   "copyright_text": "youtube", 
   "description": "Your Python server applications are running but you\u2019re wondering what they are doing?  Your only clue about their current state is the server load?  Let\u2019s have stroll through the landscape of logging and metrics so you\u2019ll find the perfect fit for your use cases!\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/gqmAwK0wNyw' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 

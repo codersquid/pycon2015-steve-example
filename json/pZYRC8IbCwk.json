@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Writing a fully complaint REST API is hard, so hard it is too common for APIs to violate one or more of the REST architectural principles. In this talk I will describe the six REST principles, and I will tell you what happens if you don't follow them.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/pZYRC8IbCwk' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 
   "slug": "", 

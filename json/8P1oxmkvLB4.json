@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Open source can be fun and rewarding, but it can also be intimidating.  This talk addresses some of the biggest technical and psychological barriers to contributing, from the perspective of both the newcomers who want to overcome them and the maintainers who want to remove them.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/8P1oxmkvLB4' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 
   "slug": "", 

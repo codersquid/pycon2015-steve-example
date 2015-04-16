@@ -20,7 +20,7 @@ def parse_title(title):
     return title
 
 def parse_speakers(speakers):
-    return [s.strip() for s in speakers.split(',')]
+    return [s.strip() for s in speakers.split(',') if s.strip()]
 
 def parse_speakers_and_description(description):
     """

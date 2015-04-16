@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "A talk on how to employ virtualization to make development easier, more portable, and have it more closely adhere to production environments.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/Dg_vPMnC7_k' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 

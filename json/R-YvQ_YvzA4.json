@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "From servers and proxies to configuration management, the Web Server Gateway Interface (WSGI) deployment ecosystem is complicated for new developers. This choose your own adventure talk contains decision points for the audience to choose topics via text and email votes. Each choice leads down a separate path to explain different confusing WSGI subjects. Bring your phone or laptop to participate!\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/R-YvQ_YvzA4' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 

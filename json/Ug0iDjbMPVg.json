@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "This tutorial is for developers who've been using Python for a while and would consider themselves at an intermediate level, but are looking for a deeper understanding of the language.  It focuses on how Python differs from other languages in subtle but important ways that are often confusing, and it demystifies a number of language features that are sometimes misunderstood.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/Ug0iDjbMPVg' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-10", 
   "slug": "", 

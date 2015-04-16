@@ -3,16 +3,12 @@
   "copyright_text": "creativeCommon", 
   "description": "", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/N_H6JpkgM8s' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-10", 
   "slug": "", 
   "source_url": "https://www.youtube.com/watch?v=N_H6JpkgM8s", 
-  "speakers": [
-    ""
-  ], 
+  "speakers": [], 
   "state": 2, 
   "summary": "", 
   "thumbnail_url": "https://i.ytimg.com/vi/N_H6JpkgM8s/hqdefault.jpg", 

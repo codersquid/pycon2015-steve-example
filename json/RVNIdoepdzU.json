@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "A very fast introduction to Python for software developers with experience in other languages.  Instead of a traditional top-down presentation of Python's features, syntax, and semantics, students are immersed in the language bottom-up with hundreds of small examples using the interactive interpreter to quickly gain familiarity with most of the core language features.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/RVNIdoepdzU' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-11", 
   "slug": "", 

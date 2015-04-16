@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "A brief and opinionated view of testing applications and libraries that use requests by a core-developer of requests. You will receive an overview of testing with responses, vcr, httpretty, mock, and betamax.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/YHbKxFcDltM' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 

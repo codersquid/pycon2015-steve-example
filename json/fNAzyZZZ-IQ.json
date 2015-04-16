@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Creating and using models from a graph database can be quite different to the ones used for row/column/document-oriented databases, in the sense that the same query patterns could differ significantly in structure and performance. This session will present how to create models in Python for Titan property graphs, that allow you to manipulate graphs as if you were querying with Gremlin DSL.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/fNAzyZZZ-IQ' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 

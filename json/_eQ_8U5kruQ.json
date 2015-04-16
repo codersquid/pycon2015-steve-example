@@ -3,9 +3,7 @@
   "copyright_text": "creativeCommon", 
   "description": "Have you ever viscerally hated a dataset? Do you want to just get data cleaning out of the way? Are you always left wondering how it consumes most of your time? Whether you work in the sciences, work with government data or scrape websites, data cleaning is a necessary evil. We'll share our woes and check out state of the art in day to day data cleaning tools and strategies.\n\n", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/_eQ_8U5kruQ' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": [
-    "English"
-  ], 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 

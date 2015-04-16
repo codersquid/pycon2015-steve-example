@@ -1,8 +1,9 @@
 {
+  "category": "PyCon US 2015", 
   "copyright_text": "creativeCommon", 
   "description": "", 
   "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/lvlfTZzJ2_Q' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
-  "language": "[u'English']", 
+  "language": "English", 
   "quality_notes": "", 
   "recorded": "2015-04-12", 
   "slug": "", 
@@ -10,16 +11,7 @@
   "speakers": [], 
   "state": 2, 
   "summary": "", 
-  "tags": [], 
   "thumbnail_url": "https://i.ytimg.com/vi/lvlfTZzJ2_Q/hqdefault.jpg", 
-  "title": "Keynote - Van Lindberg", 
-  "video_flv_download_only": false, 
-  "video_flv_url": "", 
-  "video_mp4_download_only": false, 
-  "video_mp4_url": "", 
-  "video_ogv_download_only": false, 
-  "video_ogv_url": "", 
-  "video_webm_download_only": false, 
-  "video_webm_url": "", 
+  "title": "Keynote - Van Lindberg - Pycon 2015", 
   "whiteboard": "needs editing"
 }

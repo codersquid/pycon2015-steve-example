@@ -107,10 +107,12 @@ class YouTubeScraper(object):
         thumbnail = thumbnails.get('high', {})
         video_id = video['id']
 
+        """
         if self.cfg.has_option('project', 'language'):
             language = get_from_config(self.cfg, 'language'),
         else:
             language = 'English'
+        """
 
         raw_title = snippet.get('title', '')
         title = parse_title(raw_title)
@@ -128,7 +130,7 @@ class YouTubeScraper(object):
             'thumbnail_url': thumbnail.get('url', ''),
             'embed': player.get('embedHtml', ''),
             'summary': '',
-            'language': language,
+            'language': 'English',
             'state': DRAFT,
             'whiteboard': 'needs editing',
             'quality_notes': '',
