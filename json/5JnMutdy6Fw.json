@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "The typical Pandas user learns one dataframe method at a time, slowly scraping features together through trial and error until they can solve the task in front of them. In this tutorial you will re-learn how to think about dataframes from the ground up, and discover how to select intelligently from their abilities to solve your data processing problems through direct and deliberately-chosen steps.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/5JnMutdy6Fw' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-12", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=5JnMutdy6Fw", 
+  "speakers": [
+    "Brandon Rhodes"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/5JnMutdy6Fw/hqdefault.jpg", 
+  "title": "Pandas From The Ground Up", 
+  "whiteboard": "needs editing"
+}

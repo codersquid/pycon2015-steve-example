@@ -1,0 +1,23 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "In this tutorial we'll set ourselves the goal of building a minimal recommendation engine, and in the process learn about Python's excellent Pydata and related projects and tools: NumPy, pandas, and the IPython Notebook.\n\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/F6gWjOc1FUs' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=F6gWjOc1FUs", 
+  "speakers": [
+    "Diego Maniloff", 
+    "Christian Fricke", 
+    "Zach Howard"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/F6gWjOc1FUs/hqdefault.jpg", 
+  "title": "Hands-on with Pydata: how to build a minimal recommendation engine.", 
+  "whiteboard": "needs editing"
+}

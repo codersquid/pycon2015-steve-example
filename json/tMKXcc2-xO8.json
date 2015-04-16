@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "Gumshoes, the rogue program `san_diego.py` is threatening to cause havok!  What is it doing to hide itself?  What kind of things is it doing?  Who might it be communicating with?  RAM is a big place - how can we even find it, much less any of this information? Stay tuned and find out!\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/tMKXcc2-xO8' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-12", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=tMKXcc2-xO8", 
+  "speakers": [
+    "Ying Li"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/tMKXcc2-xO8/hqdefault.jpg", 
+  "title": "Where in your RAM is \"python san_diego.py\"?", 
+  "whiteboard": "needs editing"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "This talk provides an introduction to rate tracking as well as an explanation of a particularly cool way to implement it. You will learn what rate tracking is, why you would want to do it, and then how you can use build a Redis-backed \u201cvelocity engine\u201d  in Python to do just that. \n\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/tIBkiXvEAC0' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-12", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=tIBkiXvEAC0", 
+  "speakers": [
+    "Mica Swyers", 
+    "Jay Chan"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/tIBkiXvEAC0/hqdefault.jpg", 
+  "title": "Finding Spammers & Scammers through Rate Tracking with Python & Redis", 
+  "whiteboard": "needs editing"
+}

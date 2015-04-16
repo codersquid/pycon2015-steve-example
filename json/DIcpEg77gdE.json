@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "Flask is a web framework for Python based on Werkzeug, Jinja 2 and good intentions. It is considered a micro-framework, but don't get the \"\"micro\"\" part fool you; Flask can do everything others can do, many times in a simpler, leaner way. In this tutorial session we will build a web application together. Bring your laptop and your questions!\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/DIcpEg77gdE' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=DIcpEg77gdE", 
+  "speakers": [
+    "Miguel Grinberg"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/DIcpEg77gdE/hqdefault.jpg", 
+  "title": "Flask Workshop", 
+  "whiteboard": "needs editing"
+}

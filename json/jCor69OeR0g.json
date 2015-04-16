@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/jCor69OeR0g' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=jCor69OeR0g", 
+  "speakers": [
+    ""
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/jCor69OeR0g/hqdefault.jpg", 
+  "title": "Fire your supervisord running Python apps on CoreOS", 
+  "whiteboard": "needs editing"
+}

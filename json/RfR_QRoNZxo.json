@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "In a highly dynamic language like Python, testing is even more critical than in compiled or more static languages. Like any other code we produce, tests can be either good or bad. This talk explores three fallacies of testing, and the mistakes and bad habits these fallacies encourage; and shows how to write good tests which help assure proper behavior without impeding development progress.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/RfR_QRoNZxo' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=RfR_QRoNZxo", 
+  "speakers": [
+    "Dan Crosta"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/RfR_QRoNZxo/hqdefault.jpg", 
+  "title": "Good Test, Bad Test", 
+  "whiteboard": "needs editing"
+}

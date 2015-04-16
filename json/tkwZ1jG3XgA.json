@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "This is a tutorial that goes beyond most tutorials; it's meant for developers who already know a bit about Django and want to really understand the inner guts of the framework. This tutorial will *not* involve writing code or apps; rather, it'll be a deep tour of the workings and APIs of Django itself, across all the bundled components and at all levels of the stack.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/tkwZ1jG3XgA' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-10", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=tkwZ1jG3XgA", 
+  "speakers": [
+    "James Bennett"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/tkwZ1jG3XgA/hqdefault.jpg", 
+  "title": "Django in Depth", 
+  "whiteboard": "needs editing"
+}

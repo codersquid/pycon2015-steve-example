@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "Are you still using SSH to manage your servers? Deploying code manually with rsync? There\u2019s a better way. SaltStack is one of the latest and greatest tools for system management. Once you have a foundation of lightning-fast remote execution, you can build anything on top of it. Plus, it\u2019s written in Python, and easy to extend!\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/y-zQUqMHRX4' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-12", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=y-zQUqMHRX4", 
+  "speakers": [
+    "Colton Myers"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/y-zQUqMHRX4/hqdefault.jpg", 
+  "title": "Managing Your Infrastructure with SaltStack", 
+  "whiteboard": "needs editing"
+}

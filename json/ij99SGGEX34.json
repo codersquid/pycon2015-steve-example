@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "Sometimes your programs have bugs. Often they're shallow things, simple AttributeErrors or TypeErrors. Sometimes they're large, complex, and nearly impossible to debug. This talk explores techniques for figuring these out.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ij99SGGEX34' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-12", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=ij99SGGEX34", 
+  "speakers": [
+    "Alex Gaynor"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/ij99SGGEX34/hqdefault.jpg", 
+  "title": "Techniques for Debugging Hard Problems", 
+  "whiteboard": "needs editing"
+}

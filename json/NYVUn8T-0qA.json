@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "At Runscope we've standardized the idea of small independent \"\"smart\"\" services that can be quickly built, deployed, and scaled. This talk examines lessons learned from writing these services as well as patterns found in other platforms. We present a detailed look at the code that allow us to build dozens of services, serving billions of requests, while deploying to our cluster over 20 times a day.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/NYVUn8T-0qA' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-12", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=NYVUn8T-0qA", 
+  "speakers": [
+    "Frank Stratton"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/NYVUn8T-0qA/hqdefault.jpg", 
+  "title": "Smart services & smart clients:  How micro-services change the way you build and deploy code.", 
+  "whiteboard": "needs editing"
+}

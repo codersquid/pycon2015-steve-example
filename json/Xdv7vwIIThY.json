@@ -1,0 +1,22 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "Even though it\u2019s possible to program without using virtual environments, you can shoot yourself in the foot without them. This talk will start with an illustration of how not using virtual environments can mess you up as a programmer, and will walk you through a simple way to get started with good habits using virtualenv.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/Xdv7vwIIThY' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=Xdv7vwIIThY", 
+  "speakers": [
+    "Renee Chu", 
+    "Matt Makai"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/Xdv7vwIIThY/hqdefault.jpg", 
+  "title": "Don't Make Us Say We Told You So: virtualenv for New Pythonistas", 
+  "whiteboard": "needs editing"
+}

@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "This tutorial will offer an introduction to the core concepts of machine learning and the Scikit-Learn package. We will introduce the scikit-learn API, and use it to explore the basic categories of machine learning problems and related topics such as feature selection and model validation, and practice applying these tools to real-world data sets.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/L7R4HUQ-eQ0' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-09", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=L7R4HUQ-eQ0", 
+  "speakers": [
+    "Jake VanderPlas"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/L7R4HUQ-eQ0/hqdefault.jpg", 
+  "title": "Machine Learning with Scikit-Learn (I)", 
+  "whiteboard": "needs editing"
+}

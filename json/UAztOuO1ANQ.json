@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "Everyone knows poor performance when they see it, and performance concerns affect every application -- web applications more than most. But finding performance problems can be extraordinarily difficult, and requires an analytical approach coupled with good instrumentation. This talk explores approaches to instrumentation and what that instrumentation can tell you.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/UAztOuO1ANQ' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-12", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=UAztOuO1ANQ", 
+  "speakers": [
+    "Geoff Gerrietts"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/UAztOuO1ANQ/hqdefault.jpg", 
+  "title": "Performance by the Numbers: analyzing the performance of web applications", 
+  "whiteboard": "needs editing"
+}

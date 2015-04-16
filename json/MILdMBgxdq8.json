@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/MILdMBgxdq8' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=MILdMBgxdq8", 
+  "speakers": [
+    ""
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/MILdMBgxdq8/hqdefault.jpg", 
+  "title": "Make your own Smart Air Conditioner", 
+  "whiteboard": "needs editing"
+}

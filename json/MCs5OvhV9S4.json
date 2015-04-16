@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "There are currently three popular approaches to Python concurrency: threads, event loops, and coroutines. Each is shrouded by various degrees of mystery and peril.  In this talk, all three approaches will be deconstructed and explained in a epic ground-up live coding battle.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/MCs5OvhV9S4' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=MCs5OvhV9S4", 
+  "speakers": [
+    "David Beazley"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/MCs5OvhV9S4/hqdefault.jpg", 
+  "title": "Python Concurrency From the Ground Up: LIVE!", 
+  "whiteboard": "needs editing"
+}

@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "Software engineers are never done learning since our field is always changing. We are always beginners at some things and experts at others. Along the way from beginner to expert we have to ask a lot of questions, but it can be hard to get help. This talk gives concrete tools to help you ask with confidence, and highlights common expert mistakes that inadvertently make people feel foolish. \n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/hY14Er6JX2s' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-12", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=hY14Er6JX2s", 
+  "speakers": [
+    "Sasha Laundy"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/hY14Er6JX2s/hqdefault.jpg", 
+  "title": "Your Brain's API: Giving and Getting Technical Help", 
+  "whiteboard": "needs editing"
+}

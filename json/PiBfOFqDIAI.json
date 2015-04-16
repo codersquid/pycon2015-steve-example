@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "PyPy.js is an experiment in building a fast and compliant in-browser python interpreter, by compiling PyPy into javascript and retargeting its JIT to emit javascript code at runtime. This talk will demonstrate the combination of technologies that make such a thing possible, the results achieved so far, and the challenges that still remain when taking python onto javascript's home turf.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/PiBfOFqDIAI' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=PiBfOFqDIAI", 
+  "speakers": [
+    "Ryan Kelly"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/PiBfOFqDIAI/hqdefault.jpg", 
+  "title": "PyPy.js: What? How? Why?", 
+  "whiteboard": "needs editing"
+}

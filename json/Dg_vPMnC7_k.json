@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "A talk on how to employ virtualization to make development easier, more portable, and have it more closely adhere to production environments.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/Dg_vPMnC7_k' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-12", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=Dg_vPMnC7_k", 
+  "speakers": [
+    "Luke Sneeringer"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/Dg_vPMnC7_k/hqdefault.jpg", 
+  "title": "Improve your development environments with virtualization", 
+  "whiteboard": "needs editing"
+}

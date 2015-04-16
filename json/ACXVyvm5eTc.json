@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "The internet has spoken, HTTP is to get its first serious update in 15 years. In this talk we'll discuss what HTTP/2 is, why it's happening, and how it's going to affect you and everyone you love. We'll briefly talk about how you can get started with HTTP/2, and some interesting projects associated with it, including Hyper, the first Python HTTP/2 library.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ACXVyvm5eTc' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=ACXVyvm5eTc", 
+  "speakers": [
+    "Cory Benfield"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/ACXVyvm5eTc/hqdefault.jpg", 
+  "title": "Hyperactive: HTTP/2 and Python", 
+  "whiteboard": "needs editing"
+}

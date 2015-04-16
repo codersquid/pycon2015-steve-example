@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "Many of us have experienced a \"\"wat\"\" in Python - some behavior that totally mystifies us. We'll look at three areas where wats arise - identity, mutability, and scope. For each of these three topics, we'll look at some common surprising behaviors, investigate the cause of the behaviors, and cover some practical tips on how to avoid related bugs.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/sH4XF6pKKmk' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=sH4XF6pKKmk", 
+  "speakers": [
+    "Amy Hanlon"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/sH4XF6pKKmk/hqdefault.jpg", 
+  "title": "Investigating Python Wats", 
+  "whiteboard": "needs editing"
+}

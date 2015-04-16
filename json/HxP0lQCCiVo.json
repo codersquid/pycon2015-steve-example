@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "As frontend web frameworks like AngularJS and Backbone.js take over, is Python on the server destined to be demoted to a basic REST interface? If we embrace our new JavaScript overlords, how do we ensure Python is best positioned for this new world of REST on the server? \n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/HxP0lQCCiVo' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=HxP0lQCCiVo", 
+  "speakers": [
+    "Jeff Schenck"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/HxP0lQCCiVo/hqdefault.jpg", 
+  "title": "The REST Ascendancy", 
+  "whiteboard": "needs editing"
+}

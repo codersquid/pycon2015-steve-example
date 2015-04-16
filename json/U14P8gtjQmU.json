@@ -1,0 +1,21 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "This tutorial will walk the attendees through development of a simple game using Kivy with time left over for some experimentation and exploration of different types of games.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/U14P8gtjQmU' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-12", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=U14P8gtjQmU", 
+  "speakers": [
+    "Richard Jones"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/U14P8gtjQmU/hqdefault.jpg", 
+  "title": "Introduction to game programming with Kivy", 
+  "whiteboard": "needs editing"
+}

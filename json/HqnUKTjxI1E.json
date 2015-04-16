@@ -1,0 +1,22 @@
+{
+  "category": "PyCon US 2015", 
+  "copyright_text": "creativeCommon", 
+  "description": "Given recent increases in hostile attacks on internet services and large scale surveillance operations by certain unnamed government organizations, security in our software is becoming ever more important. We'll give you an idea of how modern crypto works in web services and clients, look at some of the common flaws in these crypto implementations, and discuss recent developments in TLS.\n\n", 
+  "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/HqnUKTjxI1E' width='640' height='360' frameborder='0' allowfullscreen='true'/>", 
+  "language": [
+    "English"
+  ], 
+  "quality_notes": "", 
+  "recorded": "2015-04-11", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=HqnUKTjxI1E", 
+  "speakers": [
+    "Ashwini Oruganti", 
+    "Christopher Armstrong"
+  ], 
+  "state": 2, 
+  "summary": "", 
+  "thumbnail_url": "https://i.ytimg.com/vi/HqnUKTjxI1E/hqdefault.jpg", 
+  "title": "Introduction to HTTPS: A Comedy of Errors", 
+  "whiteboard": "needs editing"
+}
