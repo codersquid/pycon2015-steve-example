@@ -10,6 +10,13 @@ from steve.util import (
 )
 import argparse
 
+from pyconscrape import (
+    parse_title,
+    parse_speakers,
+    parse_speakers_and_description,
+)
+
+
 DRAFT = 2
 
 
@@ -105,11 +112,18 @@ class YouTubeScraper(object):
         else:
             language = 'English'
 
+        title = parse_title(snippet.get('title', ''))
+        d = parse_speakers_and_description(snippet.get('description', ''))
+        speakers = parse_speakers(d['speakers'])
+
+        print title
+        print speakers
+        print d['description']
 
         item = {
             'category': get_from_config(self.cfg, 'category'),
-            'title': snippet.get('title', ''),
-            'description': snippet.get('description', ''),
+            'title': title,
+            'description': d['description'],
             'copyright_text': status.get('license', ''),
             'recorded': snippet.get('publishedAt', '')[0:10],
             'thumbnail_url': thumbnail.get('url', ''),
@@ -120,7 +134,7 @@ class YouTubeScraper(object):
             'whiteboard': 'needs editing',
             'quality_notes': '',
             'slug': '',
-            'speakers': [],
+            'speakers': speakers,
             'source_url': 'https://www.youtube.com/watch?v={}'.format(video_id)
         }
         return item
