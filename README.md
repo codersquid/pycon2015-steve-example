@@ -1,7 +1,7 @@
 # pycon2015-steve-example
 
 This repo has the contents of the directory where I did work to push
-pycon2015 videos to pyvideo.
+pycon2015 videos to the [pyvideo pycon2015 category](http://pyvideo.org/category/65/pycon-us-2015).
 
 Currently [steve](https://github.com/pyvideo/steve) uses vidscraper to scrape youtube,
 and that doesn't work with channels or playlists. We've not had time to change steve
